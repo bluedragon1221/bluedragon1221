@@ -14,7 +14,7 @@ ____  _            ____                              _ ____  ____  _
 ```
 Hi There!
 
-Some projects you can check out:
+Here are some projects you can check out:
 - [dotfiles](https://github.com/bluedragon1221/dotfiles)
 - [website](https://bluedragon1221.github.io)
 - [notes](https://github.com/bluedragon1221/notes)
