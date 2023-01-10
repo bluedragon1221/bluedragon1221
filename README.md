@@ -12,9 +12,9 @@ ____  _            ____                              _ ____  ____  _
 |____/|_|\__,_|\___|____/|_|  \__,_|\__, |\___/|_| |_|_|_____|_____|_|
                                     |___/
 ```
-Hi There!
-
-Here are some projects you can check out:
-- [dotfiles](https://github.com/bluedragon1221/dotfiles)
-- [website](https://bluedragon1221.github.io)
-- [notes](https://github.com/bluedragon1221/notes)
+<a href="https://github.com/bluedragon1221/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bluedragon1221&repo=dotfiles&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/bluedragon1221/notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bluedragon1221&repo=notes&theme=dark&hide_border=true" />
+</a>
