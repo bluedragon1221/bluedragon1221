@@ -13,8 +13,8 @@ ____  _            ____                              _ ____  ____  _
                                     |___/
 ```
 
-(Website)[https://bluedragon1221.github.io]
+[Website](https://bluedragon1221.github.io)
 
-(Dotfiles)[https://github.com/bluedragon1221/dotfiles]
+[Dotfiles](https://github.com/bluedragon1221/dotfiles)
 
-(Notes)[https://github.com/bluedragon1221/notes]
+[Notes](https://github.com/bluedragon1221/notes)
