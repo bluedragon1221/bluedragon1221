@@ -1,7 +1,6 @@
 
 <!--
 **bluedragon1221/bluedragon1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
 
 ```
@@ -18,3 +17,5 @@
 [Dotfiles](https://github.com/bluedragon1221/hm-dots)
 
 [Notes](https://github.com/bluedragon1221/notes)
+
+Currently working on: [`home-manager`](https://nix-community.github.io/home-manager/)
