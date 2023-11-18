@@ -18,4 +18,4 @@
 
 [Notes](https://github.com/bluedragon1221/notes)
 
-Currently working on: [`home-manager`](https://nix-community.github.io/home-manager/)
+Currently working on: [`sway`](https://github.com/swaywm/sway)
