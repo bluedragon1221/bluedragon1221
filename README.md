@@ -21,6 +21,7 @@
 Currently working on: [`sway`](https://github.com/swaywm/sway)
 
 I have a PGP key, but I haven't used it yet
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZwHZZBYJKwYBBAHaRw8BAQdAt81XPBfhcxrJyIUyKzPUAIFyI9TxgzuyplZ7
@@ -35,3 +36,4 @@ v3qc+Bimu6dII5DxUK7BsIm5owEAzwJltpuh6pVKc2qqmgPB3lgS2zkxp6gD5kwW
 SMURrAU=
 =jM2J
 -----END PGP PUBLIC KEY BLOCK-----
+```
