@@ -14,7 +14,7 @@
 
 [Website](https://bluedragon1221.github.io)
 
-[Dotfiles](https://github.com/bluedragon1221/hm-dots)
+[Dotfiles](https://github.com/bluedragon1221/nixos)
 
 [Notes](https://github.com/bluedragon1221/notes)
 
