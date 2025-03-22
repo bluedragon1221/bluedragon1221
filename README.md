@@ -20,7 +20,6 @@
 
 Currently working on: [`sway`](https://github.com/swaywm/sway)
 
-I have a PGP key, but I haven't used it yet
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
